@@ -5,7 +5,10 @@ module.exports = {
     extend: {
       colors: {
         bgTranslate: '#0975F4',
+        graniteGray: '#6E7071',
+        ufoGreen: '#4FBA69',
         bgTranslateHover: '#0463d4',
+        portlandOrange: '#F16037',
       },
       keyframes: {
         wiggle: {
