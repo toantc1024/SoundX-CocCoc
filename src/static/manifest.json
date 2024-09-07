@@ -1,9 +1,8 @@
 {
-  "description": "🐱‍💻 I am your best friend for exploring beauty of languages in every page you go! 📕 Translate, ⏰ improve focus and more!",
-  "version": "3.1.1",
+  "description": "Công cụ tìm kiếm nhạc trên Cốc Cốc nhanh chóng, tiện lợi",
+  "version": "1.0.0",
   "manifest_version": 3,
-  "name": "EVTD — browser dictionary",
-  "options_page": "options.html",
+  "name": "SoundX - Tìm kiếm nhạc trên Cốc Cốc",
   "background": { "service_worker": "background.bundle.js" },
   "action": { "default_popup": "popup.html", "default_icon": "icon-34.png" },
   "icons": { "128": "icon-128.png" },
@@ -29,14 +28,5 @@
       ],
       "matches": ["<all_urls>", "http://*/*", "https://*/*"]
     }
-  ],
-  "commands": {
-    "translate": {
-      "suggested_key": {
-        "default": "Ctrl+Shift+X",
-        "mac": "Command+Shift+X"
-      },
-      "description": "Translate selected text."
-    }
-  }
+  ]
 }

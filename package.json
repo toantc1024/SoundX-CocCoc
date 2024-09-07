@@ -1,7 +1,7 @@
 {
-  "name": "EVTD Package",
+  "name": "SoundX - Tìm kiếm nhạc trên Cốc Cốc",
   "version": "3.1.2",
-  "description": "Translate what you want",
+  "description": "Công cụ tìm kiếm nhạc trên Cốc Cốc nhanh chóng, tiện lợi",
   "license": "MIT",
   "repository": {
     "type": "git"
